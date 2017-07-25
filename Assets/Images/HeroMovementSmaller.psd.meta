@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: 9227836fe0482f84a97d4d9db4b865d6
+timeCreated: 1486915102
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IdleSwordLeft1
+    21300002: IdleSwordLeft2
+    21300004: IdleSwordLeft3
+    21300006: IdleSwordLeft4
+    21300008: AttackSwordLeft1
+    21300010: AttackSwordLeft2
+    21300012: AttackSwordLeft3
+    21300014: AttackSwordLeft4
+    21300016: MoveSwordRight1
+    21300018: MoveSwordRight2
+    21300020: MoveSwordRight3
+    21300022: MoveSwordRight4
+    21300024: IdleSwordRight1
+    21300026: IdleSwordRight2
+    21300028: IdleSwordRight3
+    21300030: IdleSwordRight4
+    21300032: AttackSwordRight1
+    21300034: AttackSwordRight2
+    21300036: AttackSwordRight3
+    21300038: AttackSwordRight4
+    21300040: MoveSwordLeft1
+    21300042: MoveSwordLeft2
+    21300044: MoveSwordLeft3
+    21300046: MoveSwordLeft4
+    21300048: IdleSwordAndBootsRight1
+    21300050: IdleSwordAndBootsRight2
+    21300052: IdleSwordAndBootsRight3
+    21300054: IdleSwordAndBootsRight4
+    21300056: AttackSwordAndBootsRight1
+    21300058: AttackSwordAndBootsRight2
+    21300060: AttackSwordAndBootsRight3
+    21300062: AttackSwordAndBootsRight4
+    21300064: MoveSwordAndBootsRight1
+    21300066: MoveSwordAndBootsRight2
+    21300068: MoveSwordAndBootsRight3
+    21300070: MoveSwordAndBootsRight4
+    21300072: IdleSwordAndBootsLeft1
+    21300074: IdleSwordAndBootsLeft2
+    21300076: IdleSwordAndBootsLeft3
+    21300078: IdleSwordAndBootsLeft4
+    21300080: AttackSwordAndBootsLeft1
+    21300082: AttackSwordAndBootsLeft2
+    21300084: AttackSwordAndBootsLeft3
+    21300086: AttackSwordAndBootsLeft4
+    21300088: MoveSwordAndBootsLeft1
+    21300090: MoveSwordAndBootsLeft2
+    21300092: MoveSwordAndBootsLeft3
+    21300094: MoveSwordAndBootsLeft4
+    21300096: IdleEmptyLeft1
+    21300098: IdleEmptyLeft2
+    21300100: IdleEmptyLeft3
+    21300102: IdleEmptyLeft4
+    21300104: MoveEmptyRight1
+    21300106: MoveEmptyRight2
+    21300108: MoveEmptyRight3
+    21300110: MoveEmptyRight4
+    21300112: IdleEmptyRight1
+    21300114: IdleEmptyRight2
+    21300116: IdleEmptyRight3
+    21300118: IdleEmptyRight4
+    21300120: MoveEmptyLeft1
+    21300122: MoveEmptyLeft2
+    21300124: MoveEmptyLeft3
+    21300126: MoveEmptyLeft4
+    21300128: IdleBootsRight1
+    21300130: IdleBootsRight2
+    21300132: IdleBootsRight3
+    21300134: IdleBootsRight4
+    21300136: MoveBootsLeft1
+    21300138: MoveBootsLeft2
+    21300140: MoveBootsLeft3
+    21300142: MoveBootsLeft4
+    21300144: IdleBootsLeft1
+    21300146: IdleBootsLeft2
+    21300148: IdleBootsLeft3
+    21300150: IdleBootsLeft4
+    21300152: MoveBootsRight1
+    21300154: MoveBootsRight2
+    21300156: MoveBootsRight3
+    21300158: MoveBootsRight4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IdleSwordLeft1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1012
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 44}
+        - {x: -30, y: 19}
+        - {x: -17, y: -44}
+        - {x: 30, y: -44}
+        - {x: 30, y: 29}
+        - {x: 14, y: 44}
+    - name: IdleSwordLeft2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1015
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 44.5}
+        - {x: -30, y: 19.5}
+        - {x: -12, y: -44.5}
+        - {x: 30, y: -44.5}
+        - {x: 30, y: 19.5}
+        - {x: 15, y: 44.5}
+    - name: IdleSwordLeft3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1015
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 45.5}
+        - {x: -10, y: 37.5}
+        - {x: -26, y: 45.5}
+        - {x: -30, y: 45.5}
+        - {x: -30, y: 32.5}
+        - {x: -27, y: 24.5}
+        - {x: -19, y: -6.5}
+        - {x: -11, y: -45.5}
+        - {x: 30, y: -45.5}
+        - {x: 30, y: 17.5}
+        - {x: 11, y: 45.5}
+    - name: IdleSwordLeft4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1016
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 44.5}
+        - {x: -30, y: 16.5}
+        - {x: -15, y: -44.5}
+        - {x: 30, y: -44.5}
+        - {x: 30, y: 27.5}
+        - {x: 8, y: 44.5}
+    - name: AttackSwordLeft1
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1014
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 47}
+        - {x: -28, y: 4}
+        - {x: -18, y: -47}
+        - {x: 28, y: -47}
+        - {x: 28, y: 17}
+        - {x: 9, y: 47}
+    - name: AttackSwordLeft2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1008
+        width: 44
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 53}
+        - {x: -9, y: 53}
+        - {x: -22, y: 20}
+        - {x: -22, y: -53}
+        - {x: 21, y: -53}
+        - {x: 22, y: -47}
+        - {x: 22, y: 16}
+    - name: AttackSwordLeft3
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1008
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 52}
+        - {x: -6, y: 43}
+        - {x: -26, y: 22}
+        - {x: -26, y: -33}
+        - {x: -21, y: -52}
+        - {x: 22, y: -52}
+        - {x: 25, y: -8}
+        - {x: 26, y: 15}
+        - {x: 26, y: 52}
+    - name: AttackSwordLeft4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1018
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24.5}
+        - {x: -5, y: 14.5}
+        - {x: -28, y: 26.5}
+        - {x: -40, y: 28.5}
+        - {x: -40, y: 4.5}
+        - {x: -6, y: -43.5}
+        - {x: 40, y: -43.5}
+        - {x: 40, y: 6.5}
+        - {x: 29, y: 43.5}
+        - {x: 3, y: 43.5}
+        - {x: -7, y: 29.5}
+    - name: MoveSwordRight1
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1011
+        width: 54
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -30}
+        - {x: 18, y: -28}
+        - {x: 18, y: -26}
+        - {x: 15, y: -19}
+        - {x: 16, y: -19}
+        - {x: 19, y: -28}
+        - {x: 22, y: -35}
+        - {x: 25, y: -37}
+        - {x: 27, y: -37}
+        - {x: 27, y: -1}
+        - {x: 26, y: 8}
+        - {x: 23, y: 13}
+        - {x: 1, y: 53}
+        - {x: -17, y: 53}
+        - {x: -27, y: 18}
+        - {x: -27, y: -52}
+        - {x: -25, y: -52}
+        - {x: -18, y: -53}
+        - {x: 26, y: -53}
+        - {x: 27, y: -52}
+        - {x: 27, y: -49}
+        - {x: 20, y: -35}
+    - name: MoveSwordRight2
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1008
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 56}
+        - {x: -20, y: 56}
+        - {x: -26, y: 30}
+        - {x: -26, y: -46}
+        - {x: -23, y: -54}
+        - {x: -20, y: -56}
+        - {x: 12, y: -56}
+        - {x: 26, y: -39}
+        - {x: 26, y: 2}
+        - {x: 24, y: 14}
+    - name: MoveSwordRight3
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1005
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 56}
+        - {x: -13, y: 56}
+        - {x: -14, y: 52}
+        - {x: -25, y: 29}
+        - {x: -26, y: 27}
+        - {x: -26, y: -54}
+        - {x: -25, y: -56}
+        - {x: 15, y: -56}
+        - {x: 21, y: -53}
+        - {x: 26, y: -48}
+        - {x: 26, y: 15}
+    - name: MoveSwordRight4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1006
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 55}
+        - {x: -26, y: 39}
+        - {x: -26, y: -52}
+        - {x: -23, y: -55}
+        - {x: 12, y: -55}
+        - {x: 26, y: -46}
+        - {x: 26, y: 10}
+        - {x: -6, y: 55}
+    - name: IdleSwordRight1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 884
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 43.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -30.5, y: -43.5}
+        - {x: 13.5, y: -43.5}
+        - {x: 30.5, y: 1.5}
+        - {x: 30.5, y: 43.5}
+    - name: IdleSwordRight2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 881
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -44}
+        - {x: 13.5, y: -44}
+        - {x: 30.5, y: 2}
+        - {x: 30.5, y: 44}
+        - {x: -30.5, y: 44}
+    - name: IdleSwordRight3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 874
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 45.5}
+        - {x: -30, y: 16.5}
+        - {x: -30, y: -45.5}
+        - {x: 13, y: -45.5}
+        - {x: 30, y: 20.5}
+        - {x: 30, y: 45.5}
+    - name: IdleSwordRight4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 873
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 43.5}
+        - {x: -30.5, y: 39.5}
+        - {x: -30.5, y: -43.5}
+        - {x: 13.5, y: -43.5}
+        - {x: 30.5, y: 1.5}
+        - {x: 30.5, y: 43.5}
+    - name: AttackSwordRight1
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 870
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 48}
+        - {x: 19, y: 52}
+        - {x: 9, y: 52}
+        - {x: -17, y: 32}
+        - {x: -22, y: 17}
+        - {x: -22, y: -52}
+        - {x: 18, y: -52}
+        - {x: 20, y: -48}
+        - {x: 22, y: -27}
+        - {x: 22, y: 29}
+    - name: AttackSwordRight2
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 867
+        width: 56
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 54.5}
+        - {x: -28, y: -22.5}
+        - {x: -19, y: -54.5}
+        - {x: 26, y: -54.5}
+        - {x: 28, y: -46.5}
+        - {x: 28, y: 21.5}
+        - {x: -10, y: 54.5}
+    - name: AttackSwordRight3
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 866
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 44}
+        - {x: -30, y: 40}
+        - {x: -30, y: -44}
+        - {x: 12, y: -44}
+        - {x: 30, y: 2}
+        - {x: 30, y: 44}
+    - name: AttackSwordRight4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 863
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 43.5}
+        - {x: -43, y: 13.5}
+        - {x: -43, y: -43.5}
+        - {x: -1, y: -43.5}
+        - {x: 43, y: 9.5}
+        - {x: 43, y: 25.5}
+        - {x: 0, y: 43.5}
+    - name: MoveSwordLeft1
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 858
+        width: 54
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 53}
+        - {x: -27, y: 20}
+        - {x: -27, y: -38}
+        - {x: -26, y: -38}
+        - {x: -23, y: -36}
+        - {x: -19, y: -27}
+        - {x: -17, y: -21}
+        - {x: -16, y: -17}
+        - {x: -16, y: -21}
+        - {x: -20, y: -30}
+        - {x: -27, y: -45}
+        - {x: -27, y: -53}
+        - {x: 27, y: -53}
+        - {x: 27, y: 38}
+        - {x: 13, y: 53}
+    - name: MoveSwordLeft2
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 859
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 27}
+        - {x: 15, y: 56}
+        - {x: 3, y: 56}
+        - {x: -26, y: 11}
+        - {x: -26, y: -36}
+        - {x: -21, y: -36}
+        - {x: -21, y: -37}
+        - {x: -8, y: -55}
+        - {x: -7, y: -56}
+        - {x: 13, y: -56}
+        - {x: 16, y: -55}
+        - {x: 19, y: -53}
+        - {x: 26, y: -22}
+    - name: MoveSwordLeft3
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 858
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 56}
+        - {x: -6, y: 54}
+        - {x: -26, y: 23}
+        - {x: -26, y: -36}
+        - {x: -24, y: -36}
+        - {x: -22, y: -35}
+        - {x: -25, y: -48}
+        - {x: -11, y: -56}
+        - {x: 23, y: -56}
+        - {x: 26, y: -55}
+        - {x: 26, y: 31}
+        - {x: 15, y: 56}
+    - name: MoveSwordLeft4
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 870
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 55}
+        - {x: -26, y: 28}
+        - {x: -26, y: -38}
+        - {x: -23, y: -38}
+        - {x: -18, y: -30}
+        - {x: -16, y: -21}
+        - {x: -20, y: -37}
+        - {x: -24, y: -40}
+        - {x: -24, y: -43}
+        - {x: -14, y: -55}
+        - {x: 20, y: -55}
+        - {x: 26, y: -49}
+        - {x: 26, y: 41}
+        - {x: 15, y: 55}
+    - name: IdleSwordAndBootsRight1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 731
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 43.5}
+        - {x: 19.5, y: 35.5}
+        - {x: 12.5, y: 43.5}
+        - {x: -15.5, y: 43.5}
+        - {x: -28.5, y: 37.5}
+        - {x: -30.5, y: 34.5}
+        - {x: -30.5, y: -43.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 28.5, y: -6.5}
+        - {x: 30.5, y: 10.5}
+        - {x: 30.5, y: 43.5}
+    - name: IdleSwordAndBootsRight2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 728
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 44}
+        - {x: -11.5, y: 44}
+        - {x: -30.5, y: 18}
+        - {x: -30.5, y: -44}
+        - {x: 8.5, y: -44}
+        - {x: 9.5, y: -43}
+        - {x: 12.5, y: -37}
+        - {x: 30.5, y: 26}
+    - name: IdleSwordAndBootsRight3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 722
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 45}
+        - {x: -30, y: 34}
+        - {x: -30, y: -45}
+        - {x: 12, y: -45}
+        - {x: 23, y: -8}
+        - {x: 30, y: 26}
+        - {x: 30, y: 45}
+    - name: IdleSwordAndBootsRight4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 720
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 43.5}
+        - {x: 19.5, y: 35.5}
+        - {x: 15.5, y: 30.5}
+        - {x: 0.5, y: 43.5}
+        - {x: -15.5, y: 43.5}
+        - {x: -30.5, y: 24.5}
+        - {x: -30.5, y: -43.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 28.5, y: -6.5}
+        - {x: 30.5, y: 10.5}
+        - {x: 30.5, y: 43.5}
+    - name: AttackSwordAndBootsRight1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 717
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 52}
+        - {x: -22, y: -52}
+        - {x: 22, y: -52}
+        - {x: 22, y: 52}
+    - name: AttackSwordAndBootsRight2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 714
+        width: 56
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 55}
+        - {x: -28, y: 16}
+        - {x: -22, y: -27}
+        - {x: -18, y: -55}
+        - {x: 26, y: -55}
+        - {x: 28, y: -46}
+        - {x: 28, y: 22}
+        - {x: -9, y: 55}
+    - name: AttackSwordAndBootsRight3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 714
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 43.5}
+        - {x: -30, y: 13.5}
+        - {x: -30, y: -41.5}
+        - {x: -27, y: -43.5}
+        - {x: 11, y: -43.5}
+        - {x: 30, y: 1.5}
+        - {x: 30, y: 43.5}
+    - name: AttackSwordAndBootsRight4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 710
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 43.5}
+        - {x: -34, y: 43.5}
+        - {x: -43, y: 12.5}
+        - {x: -43, y: -43.5}
+        - {x: -5, y: -43.5}
+        - {x: 43, y: 12.5}
+        - {x: 43, y: 22.5}
+        - {x: 37, y: 23.5}
+    - name: MoveSwordAndBootsRight1
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 705
+        width: 54
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 53}
+        - {x: -27, y: 21}
+        - {x: -27, y: -38}
+        - {x: -23, y: -36}
+        - {x: -19, y: -27}
+        - {x: -17, y: -21}
+        - {x: -16, y: -17}
+        - {x: -16, y: -21}
+        - {x: -20, y: -30}
+        - {x: -20, y: -34}
+        - {x: -27, y: -50}
+        - {x: -27, y: -53}
+        - {x: 27, y: -53}
+        - {x: 27, y: 21}
+        - {x: 20, y: 53}
+    - name: MoveSwordAndBootsRight2
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 706
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 56}
+        - {x: 0, y: 56}
+        - {x: -26, y: 17}
+        - {x: -26, y: -36}
+        - {x: -21, y: -36}
+        - {x: -11, y: -56}
+        - {x: 20, y: -56}
+        - {x: 26, y: -40}
+        - {x: 26, y: 31}
+    - name: MoveSwordAndBootsRight3
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 705
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 56}
+        - {x: -26, y: 22}
+        - {x: -26, y: -54}
+        - {x: -18, y: -56}
+        - {x: 22, y: -56}
+        - {x: 26, y: -38}
+        - {x: 26, y: 28}
+        - {x: 15, y: 56}
+    - name: MoveSwordAndBootsRight4
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 717
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 55}
+        - {x: -26, y: 30}
+        - {x: -26, y: -37}
+        - {x: -23, y: -38}
+        - {x: -16, y: -25}
+        - {x: -24, y: -40}
+        - {x: -24, y: -41}
+        - {x: -10, y: -55}
+        - {x: 26, y: -55}
+        - {x: 26, y: 49}
+        - {x: 19, y: 55}
+    - name: IdleSwordAndBootsLeft1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 576
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 44}
+        - {x: -30.5, y: 17}
+        - {x: -12.5, y: -44}
+        - {x: 30.5, y: -44}
+        - {x: 30.5, y: 18}
+        - {x: 14.5, y: 44}
+    - name: IdleSwordAndBootsLeft2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 579
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 44.5}
+        - {x: -30, y: 16.5}
+        - {x: -24, y: -9.5}
+        - {x: -12, y: -44.5}
+        - {x: 30, y: -44.5}
+        - {x: 30, y: 27.5}
+        - {x: 14, y: 44.5}
+    - name: IdleSwordAndBootsLeft3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 579
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 45.5}
+        - {x: -30, y: 45.5}
+        - {x: -30, y: 26.5}
+        - {x: -15, y: -45.5}
+        - {x: 30, y: -45.5}
+        - {x: 30, y: 21.5}
+        - {x: 19, y: 38.5}
+    - name: IdleSwordAndBootsLeft4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 580
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 44.5}
+        - {x: -30, y: 24.5}
+        - {x: -20, y: -3.5}
+        - {x: -15, y: -44.5}
+        - {x: 30, y: -44.5}
+        - {x: 30, y: 28.5}
+        - {x: 14, y: 44.5}
+    - name: AttackSwordAndBootsLeft1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 579
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 46.5}
+        - {x: -27.5, y: 19.5}
+        - {x: -12.5, y: -46.5}
+        - {x: 27.5, y: -46.5}
+        - {x: 27.5, y: 18.5}
+        - {x: 6.5, y: 46.5}
+    - name: AttackSwordAndBootsLeft2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 572
+        width: 44
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 53}
+        - {x: -22, y: 25}
+        - {x: -22, y: -51}
+        - {x: -21, y: -53}
+        - {x: 22, y: -53}
+        - {x: 22, y: 24}
+        - {x: 12, y: 53}
+    - name: AttackSwordAndBootsLeft3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 572
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 52.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -25.5, y: -52.5}
+        - {x: 23.5, y: -52.5}
+        - {x: 25.5, y: -22.5}
+        - {x: 25.5, y: 52.5}
+    - name: AttackSwordAndBootsLeft4
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 582
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 43.5}
+        - {x: -40, y: 0.5}
+        - {x: -30, y: -19.5}
+        - {x: 4, y: -43.5}
+        - {x: 40, y: -43.5}
+        - {x: 40, y: 33.5}
+        - {x: 32, y: 43.5}
+    - name: MoveSwordAndBootsLeft1
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 576
+        width: 54
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 53}
+        - {x: -27, y: 40}
+        - {x: -27, y: -53}
+        - {x: 27, y: -53}
+        - {x: 27, y: 30}
+        - {x: 5, y: 53}
+    - name: MoveSwordAndBootsLeft2
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 572
+        width: 52
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 56.5}
+        - {x: -26, y: 31.5}
+        - {x: -26, y: -32.5}
+        - {x: -20, y: -56.5}
+        - {x: 17, y: -56.5}
+        - {x: 26, y: -49.5}
+        - {x: 26, y: 11.5}
+        - {x: -6, y: 56.5}
+    - name: MoveSwordAndBootsLeft3
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 569
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -40}
+        - {x: 26, y: 22}
+        - {x: 6, y: 56}
+        - {x: -17, y: 56}
+        - {x: -26, y: 47}
+        - {x: -26, y: -41}
+        - {x: -23, y: -56}
+        - {x: 0, y: -56}
+        - {x: 1, y: -54}
+        - {x: 20, y: -51}
+        - {x: 21, y: -44}
+    - name: MoveSwordAndBootsLeft4
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 571
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -37.5}
+        - {x: 26, y: -37.5}
+        - {x: 26, y: 23.5}
+        - {x: -4, y: 54.5}
+        - {x: -22, y: 54.5}
+        - {x: -26, y: 44.5}
+        - {x: -26, y: -53.5}
+        - {x: -24, y: -54.5}
+        - {x: 14, y: -54.5}
+        - {x: 26, y: -44.5}
+        - {x: 26, y: -40.5}
+        - {x: 21, y: -34.5}
+    - name: IdleEmptyLeft1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 445
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 44}
+        - {x: -18.5, y: 44}
+        - {x: -20.5, y: 41}
+        - {x: -20.5, y: -44}
+        - {x: 19.5, y: -44}
+        - {x: 20.5, y: -41}
+        - {x: 20.5, y: 18}
+        - {x: 14.5, y: 41}
+    - name: IdleEmptyLeft2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 448
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 44.5}
+        - {x: -21, y: -44.5}
+        - {x: 21, y: -44.5}
+        - {x: 21, y: 14.5}
+        - {x: 2, y: 44.5}
+    - name: IdleEmptyLeft3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 448
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 45.5}
+        - {x: -21, y: -45.5}
+        - {x: 21, y: -45.5}
+        - {x: 21, y: 18.5}
+        - {x: 1, y: 45.5}
+    - name: IdleEmptyLeft4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 449
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 44.5}
+        - {x: -21, y: 44.5}
+        - {x: -21, y: -38.5}
+        - {x: -19, y: -44.5}
+        - {x: 21, y: -44.5}
+        - {x: 21, y: 15.5}
+        - {x: 12, y: 38.5}
+    - name: MoveEmptyRight1
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 445
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 17.5}
+        - {x: 24.5, y: 37.5}
+        - {x: 10.5, y: 47.5}
+        - {x: -6.5, y: 47.5}
+        - {x: -29.5, y: 12.5}
+        - {x: -29.5, y: -47.5}
+        - {x: 29.5, y: -47.5}
+        - {x: 29.5, y: 19.5}
+        - {x: 22.5, y: 20.5}
+    - name: MoveEmptyRight2
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 441
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 37}
+        - {x: 9.5, y: 51}
+        - {x: -25.5, y: 51}
+        - {x: -28.5, y: 41}
+        - {x: -28.5, y: -51}
+        - {x: 5.5, y: -51}
+        - {x: 8.5, y: -47}
+        - {x: 12.5, y: -29}
+        - {x: 28.5, y: -32}
+    - name: MoveEmptyRight3
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 438
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 51}
+        - {x: -28.5, y: 35}
+        - {x: -28.5, y: -51}
+        - {x: 8.5, y: -51}
+        - {x: 20.5, y: -48}
+        - {x: 28.5, y: -32}
+        - {x: 28.5, y: 25}
+        - {x: 13.5, y: 51}
+    - name: MoveEmptyRight4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 440
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 49}
+        - {x: -28.5, y: 14}
+        - {x: -28.5, y: -41}
+        - {x: -25.5, y: -49}
+        - {x: 21.5, y: -49}
+        - {x: 28.5, y: -47}
+        - {x: 28.5, y: 49}
+    - name: IdleEmptyRight1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 317
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 43.5}
+        - {x: -20.5, y: 37.5}
+        - {x: -20.5, y: -43.5}
+        - {x: 20.5, y: -43.5}
+        - {x: 20.5, y: 35.5}
+        - {x: 16.5, y: 43.5}
+    - name: IdleEmptyRight2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 314
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 44}
+        - {x: -15.5, y: 37}
+        - {x: -20.5, y: 15}
+        - {x: -20.5, y: -42}
+        - {x: -18.5, y: -44}
+        - {x: 20.5, y: -44}
+        - {x: 20.5, y: 39}
+        - {x: 17.5, y: 44}
+    - name: IdleEmptyRight3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 308
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 45}
+        - {x: -21.5, y: 18}
+        - {x: -21.5, y: -45}
+        - {x: 20.5, y: -45}
+        - {x: 21.5, y: -38}
+        - {x: 21.5, y: 38}
+        - {x: 17.5, y: 45}
+    - name: IdleEmptyRight4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 306
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 43.5}
+        - {x: -20.5, y: 38.5}
+        - {x: -20.5, y: -43.5}
+        - {x: 20.5, y: -43.5}
+        - {x: 20.5, y: 42.5}
+        - {x: 19.5, y: 43.5}
+    - name: MoveEmptyLeft1
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 292
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 46.5}
+        - {x: -3, y: 46.5}
+        - {x: -27, y: 27.5}
+        - {x: -27, y: -31.5}
+        - {x: -25, y: -31.5}
+        - {x: -23, y: -30.5}
+        - {x: -19, y: -21.5}
+        - {x: -17, y: -15.5}
+        - {x: -16, y: -11.5}
+        - {x: -16, y: -15.5}
+        - {x: -20, y: -24.5}
+        - {x: -20, y: -28.5}
+        - {x: -27, y: -43.5}
+        - {x: -26, y: -46.5}
+        - {x: 27, y: -46.5}
+        - {x: 27, y: 10.5}
+        - {x: 21, y: 35.5}
+    - name: MoveEmptyLeft2
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 292
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 49}
+        - {x: -26, y: 18}
+        - {x: -26, y: -30}
+        - {x: -14, y: -49}
+        - {x: 20, y: -49}
+        - {x: 26, y: -47}
+        - {x: 26, y: 49}
+    - name: MoveEmptyLeft3
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 291
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 48.5}
+        - {x: -26, y: 26.5}
+        - {x: -26, y: -28.5}
+        - {x: -23, y: -29.5}
+        - {x: -16, y: -16.5}
+        - {x: -22, y: -34.5}
+        - {x: -20, y: -41.5}
+        - {x: -5, y: -48.5}
+        - {x: 25, y: -48.5}
+        - {x: 26, y: -45.5}
+        - {x: 26, y: 36.5}
+        - {x: 16, y: 48.5}
+    - name: MoveEmptyLeft4
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 303
+        width: 52
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 47.5}
+        - {x: -22, y: 23.5}
+        - {x: -26, y: 11.5}
+        - {x: -26, y: -29.5}
+        - {x: -23, y: -30.5}
+        - {x: -16, y: -17.5}
+        - {x: -24, y: -32.5}
+        - {x: -24, y: -33.5}
+        - {x: -10, y: -47.5}
+        - {x: 21, y: -47.5}
+        - {x: 26, y: -46.5}
+        - {x: 26, y: 37.5}
+        - {x: 16, y: 47.5}
+    - name: IdleBootsRight1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 164
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 44}
+        - {x: -20.5, y: 17}
+        - {x: -20.5, y: -44}
+        - {x: 20.5, y: -44}
+        - {x: 20.5, y: 39}
+        - {x: 10.5, y: 44}
+    - name: IdleBootsRight2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 161
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 44}
+        - {x: -21, y: 30}
+        - {x: -21, y: -44}
+        - {x: 21, y: -44}
+        - {x: 21, y: 37}
+        - {x: 14, y: 44}
+    - name: IdleBootsRight3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 155
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 45}
+        - {x: -6.5, y: 41}
+        - {x: -21.5, y: 13}
+        - {x: -21.5, y: -45}
+        - {x: 21.5, y: -45}
+        - {x: 21.5, y: 40}
+        - {x: 14.5, y: 45}
+    - name: IdleBootsRight4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 153
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 44}
+        - {x: -1.5, y: 44}
+        - {x: -20.5, y: 20}
+        - {x: -20.5, y: -44}
+        - {x: 20.5, y: -44}
+        - {x: 20.5, y: 33}
+        - {x: 14.5, y: 40}
+    - name: MoveBootsLeft1
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 139
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 12}
+        - {x: -27, y: -31}
+        - {x: -25, y: -31}
+        - {x: -23, y: -30}
+        - {x: -20, y: -23}
+        - {x: -20, y: -21}
+        - {x: -18, y: -18}
+        - {x: -16, y: -11}
+        - {x: -16, y: -14}
+        - {x: -20, y: -23}
+        - {x: -20, y: -29}
+        - {x: -25, y: -41}
+        - {x: -26, y: -46}
+        - {x: 27, y: -46}
+        - {x: 27, y: 11}
+        - {x: 25, y: 35}
+        - {x: 17, y: 46}
+        - {x: -1, y: 46}
+        - {x: -16, y: 38}
+    - name: MoveBootsLeft2
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 140
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 48.5}
+        - {x: -26, y: 20.5}
+        - {x: -26, y: -31.5}
+        - {x: -16, y: -44.5}
+        - {x: -11, y: -48.5}
+        - {x: 26, y: -48.5}
+        - {x: 26, y: 42.5}
+        - {x: 22, y: 48.5}
+    - name: MoveBootsLeft3
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 139
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 48}
+        - {x: -2, y: 46}
+        - {x: -7, y: 37}
+        - {x: -10, y: 29}
+        - {x: -26, y: 19}
+        - {x: -26, y: -29}
+        - {x: -23, y: -30}
+        - {x: -16, y: -17}
+        - {x: -25, y: -40}
+        - {x: -6, y: -45}
+        - {x: 1, y: -42}
+        - {x: 3, y: -40}
+        - {x: -1, y: -45}
+        - {x: -1, y: -46}
+        - {x: 1, y: -48}
+        - {x: 26, y: -48}
+        - {x: 26, y: 41}
+        - {x: 19, y: 48}
+    - name: MoveBootsLeft4
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 151
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 47}
+        - {x: -26, y: 19}
+        - {x: -26, y: -31}
+        - {x: -23, y: -31}
+        - {x: -17, y: -20}
+        - {x: -16, y: -13}
+        - {x: -15, y: -9}
+        - {x: -16, y: -12}
+        - {x: -16, y: -30}
+        - {x: -22, y: -30}
+        - {x: -24, y: -32}
+        - {x: -25, y: -35}
+        - {x: -17, y: -47}
+        - {x: 26, y: -47}
+        - {x: 26, y: 38}
+        - {x: 15, y: 47}
+    - name: IdleBootsLeft1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 10
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 43.5}
+        - {x: -20.5, y: 40.5}
+        - {x: -20.5, y: -33.5}
+        - {x: -18.5, y: -43.5}
+        - {x: 20.5, y: -43.5}
+        - {x: 20.5, y: 23.5}
+        - {x: 6.5, y: 43.5}
+    - name: IdleBootsLeft2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 12
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 45}
+        - {x: -21, y: -45}
+        - {x: 21, y: -45}
+        - {x: 21, y: 29}
+        - {x: 4, y: 45}
+    - name: IdleBootsLeft3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 12
+        width: 43
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 45.5}
+        - {x: -21.5, y: 42.5}
+        - {x: -21.5, y: -45.5}
+        - {x: 21.5, y: -45.5}
+        - {x: 21.5, y: 19.5}
+        - {x: 1.5, y: 45.5}
+    - name: IdleBootsLeft4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 13
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 44.5}
+        - {x: -21, y: 37.5}
+        - {x: -21, y: -39.5}
+        - {x: -20, y: -43.5}
+        - {x: -18, y: -44.5}
+        - {x: 21, y: -44.5}
+        - {x: 21, y: 15.5}
+        - {x: 5, y: 44.5}
+    - name: MoveBootsRight1
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 9
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -33.5}
+        - {x: 29, y: -33.5}
+        - {x: 29, y: 25.5}
+        - {x: 18, y: 44.5}
+        - {x: 13, y: 47.5}
+        - {x: -7, y: 47.5}
+        - {x: -29, y: 11.5}
+        - {x: -29, y: -47.5}
+        - {x: 24, y: -47.5}
+        - {x: 26, y: -44.5}
+        - {x: 18, y: -23.5}
+        - {x: 21, y: -29.5}
+    - name: MoveBootsRight2
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 6
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 22}
+        - {x: 17, y: 47}
+        - {x: 12, y: 50}
+        - {x: -6, y: 50}
+        - {x: -28, y: 19}
+        - {x: -28, y: -36}
+        - {x: -26, y: -49}
+        - {x: -25, y: -50}
+        - {x: 9, y: -50}
+        - {x: 14, y: -49}
+        - {x: 28, y: -32}
+        - {x: 28, y: 20}
+        - {x: 26, y: 22}
+    - name: MoveBootsRight3
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 50}
+        - {x: -28.5, y: 50}
+        - {x: -28.5, y: -50}
+        - {x: 8.5, y: -50}
+        - {x: 20.5, y: -44}
+        - {x: 28.5, y: -33}
+        - {x: 28.5, y: 24}
+    - name: MoveBootsRight4
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 4
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: -32.5}
+        - {x: 28.5, y: 27.5}
+        - {x: 9.5, y: 48.5}
+        - {x: -10.5, y: 48.5}
+        - {x: -28.5, y: 27.5}
+        - {x: -28.5, y: -45.5}
+        - {x: -26.5, y: -48.5}
+        - {x: 8.5, y: -48.5}
+        - {x: 23.5, y: -37.5}
+        - {x: 19.5, y: -28.5}
+        - {x: 24.5, y: -33.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 8795f8740f392354081bac3849207fba
+timeCreated: 1486839667
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player Sword 1
+    21300002: Player 1
+    21300004: Player Sword 2
+    21300006: Player 2
+    21300008: Player Sword Boots 1
+    21300010: Player Boots 1
+    21300012: Player Sword Boots 2
+    21300014: Player Boots 2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player Sword 1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 326
+        width: 160
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -107.5}
+        - {x: 80, y: 44.5}
+        - {x: 73, y: 47.5}
+        - {x: 62, y: 44.5}
+        - {x: 41, y: 130.5}
+        - {x: -39, y: 130.5}
+        - {x: -80, y: 47.5}
+        - {x: -80, y: -89.5}
+        - {x: -47, y: -130.5}
+        - {x: 40, y: -130.5}
+        - {x: 40, y: -127.5}
+        - {x: 34, y: -117.5}
+    - name: Player 1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 326
+        width: 160
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 130}
+        - {x: -11, y: 130}
+        - {x: -80, y: 35}
+        - {x: -80, y: -49}
+        - {x: -48, y: -130}
+        - {x: 42, y: -130}
+        - {x: 38, y: -117}
+        - {x: 80, y: -98}
+        - {x: 80, y: 87}
+    - name: Player Sword 2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 334
+        width: 171
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 130}
+        - {x: -85.5, y: 130}
+        - {x: -85.5, y: 66}
+        - {x: -30.5, y: -130}
+        - {x: 85.5, y: -130}
+        - {x: 85.5, y: 56}
+        - {x: 32.5, y: 122}
+    - name: Player 2
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 338
+        width: 122
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 130}
+        - {x: -40, y: 130}
+        - {x: -61, y: 100}
+        - {x: -61, y: -34}
+        - {x: -57, y: -130}
+        - {x: 61, y: -130}
+        - {x: 61, y: 30}
+        - {x: 27, y: 109}
+    - name: Player Sword Boots 1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 160
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 50.5}
+        - {x: 37, y: 130.5}
+        - {x: -3, y: 130.5}
+        - {x: -34, y: 101.5}
+        - {x: -80, y: 32.5}
+        - {x: -80, y: -61.5}
+        - {x: -76, y: -92.5}
+        - {x: -52, y: -130.5}
+        - {x: 36, y: -130.5}
+        - {x: 38, y: -126.5}
+        - {x: 77, y: -98.5}
+        - {x: 77, y: 45.5}
+    - name: Player Boots 1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 26
+        width: 160
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: 41}
+        - {x: 71, y: 47}
+        - {x: 66, y: 46}
+        - {x: 63, y: 45}
+        - {x: 54, y: 97}
+        - {x: 26, y: 130}
+        - {x: 3, y: 130}
+        - {x: -19, y: 119}
+        - {x: -80, y: 33}
+        - {x: -80, y: -44}
+        - {x: -60, y: -130}
+        - {x: 43, y: -130}
+        - {x: 39, y: -117}
+        - {x: 80, y: -99}
+    - name: Player Sword Boots 2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 34
+        width: 171
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 130}
+        - {x: -85.5, y: 130}
+        - {x: -85.5, y: 66}
+        - {x: -30.5, y: -130}
+        - {x: 85.5, y: -130}
+        - {x: 85.5, y: 56}
+        - {x: 32.5, y: 122}
+    - name: Player Boots 2
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 38
+        width: 122
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 130}
+        - {x: -40, y: 130}
+        - {x: -61, y: 100}
+        - {x: -61, y: -34}
+        - {x: -57, y: -130}
+        - {x: 61, y: -130}
+        - {x: 61, y: 30}
+        - {x: 27, y: 109}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

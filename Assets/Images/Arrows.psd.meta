@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 3251368e96fdfc543b2328e8d1d49785
+timeCreated: 1486924019
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arrows_0
+    21300002: Arrows_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Arrows_0
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 181
+        width: 281
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 100}
+        - {x: -4.5, y: 203}
+        - {x: -10.5, y: 203}
+        - {x: -77.5, y: 102}
+        - {x: -134.5, y: 15}
+        - {x: -140.5, y: 5}
+        - {x: -140.5, y: -5}
+        - {x: -134.5, y: -15}
+        - {x: -122.5, y: -33}
+        - {x: -113.5, y: -47}
+        - {x: -101.5, y: -65}
+        - {x: -92.5, y: -79}
+        - {x: -78.5, y: -100}
+        - {x: -69.5, y: -114}
+        - {x: -55.5, y: -135}
+        - {x: -46.5, y: -149}
+        - {x: -15.5, y: -195}
+        - {x: -9.5, y: -203}
+        - {x: -4.5, y: -203}
+        - {x: -4.5, y: -100}
+        - {x: 140.5, y: -100}
+        - {x: 140.5, y: 100}
+    - name: Arrows_1
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 182
+        width: 281
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138.5, y: 8.5}
+        - {x: 125.5, y: 28.5}
+        - {x: 111.5, y: 49.5}
+        - {x: 98.5, y: 69.5}
+        - {x: 82.5, y: 92.5}
+        - {x: 81.5, y: 95.5}
+        - {x: 65.5, y: 118.5}
+        - {x: 54.5, y: 136.5}
+        - {x: 38.5, y: 162.5}
+        - {x: 10.5, y: 203.5}
+        - {x: 4.5, y: 203.5}
+        - {x: 4.5, y: 100.5}
+        - {x: -140.5, y: 100.5}
+        - {x: -140.5, y: -100.5}
+        - {x: 4.5, y: -100.5}
+        - {x: 4.5, y: -203.5}
+        - {x: 9.5, y: -203.5}
+        - {x: 34.5, y: -166.5}
+        - {x: 140.5, y: -4.5}
+        - {x: 140.5, y: 4.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 1f927a2626b0b194c921811326e2a2eb
+timeCreated: 1490514166
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StrengthIcon
+    21300002: ExitGatesIcon
+    21300004: PlayerMovesLeftIcon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StrengthIcon
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 389
+        width: 230
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -119}
+        - {x: 106, y: 100}
+        - {x: 115, y: 134}
+        - {x: 115, y: 147}
+        - {x: 109, y: 147}
+        - {x: 72, y: 124}
+        - {x: -115, y: -55}
+        - {x: -115, y: -147}
+        - {x: -50, y: -147}
+        - {x: -36, y: -143}
+        - {x: -31, y: -131}
+        - {x: -30, y: -128}
+        - {x: -30, y: -124}
+    - name: ExitGatesIcon
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 364
+        width: 320
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: 66}
+        - {x: 155, y: 75}
+        - {x: 153, y: 82}
+        - {x: 152, y: 90}
+        - {x: 151, y: 96}
+        - {x: 143, y: 108}
+        - {x: 133, y: 119}
+        - {x: 132, y: 122}
+        - {x: 126, y: 130}
+        - {x: 100, y: 156}
+        - {x: 93, y: 159}
+        - {x: 82, y: 164}
+        - {x: 74, y: 169}
+        - {x: 61, y: 173}
+        - {x: 51, y: 176}
+        - {x: 40, y: 178}
+        - {x: 30, y: 181}
+        - {x: -28, y: 181}
+        - {x: -31, y: 180}
+        - {x: -39, y: 178}
+        - {x: -45, y: 175}
+        - {x: -52, y: 175}
+        - {x: -61, y: 172}
+        - {x: -75, y: 169}
+        - {x: -82, y: 164}
+        - {x: -87, y: 159}
+        - {x: -99, y: 154}
+        - {x: -111, y: 143}
+        - {x: -122, y: 129}
+        - {x: -127, y: 124}
+        - {x: -129, y: 119}
+        - {x: -139, y: 109}
+        - {x: -143, y: 100}
+        - {x: -148, y: 92}
+        - {x: -155, y: 84}
+        - {x: -159, y: 73}
+        - {x: -160, y: 56}
+        - {x: -160, y: -181}
+        - {x: 160, y: -181}
+        - {x: 160, y: 48}
+    - name: PlayerMovesLeftIcon
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 344
+        width: 234
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: -149.5}
+        - {x: 117, y: -81.5}
+        - {x: 117, y: 43.5}
+        - {x: 111, y: 59.5}
+        - {x: 81, y: 42.5}
+        - {x: 79, y: 109.5}
+        - {x: 40, y: 213.5}
+        - {x: 12, y: 213.5}
+        - {x: -76, y: 44.5}
+        - {x: -83, y: -16.5}
+        - {x: -73, y: -71.5}
+        - {x: -117, y: -151.5}
+        - {x: -117, y: -180.5}
+        - {x: -13, y: -157.5}
+        - {x: -4, y: -213.5}
+        - {x: 89, y: -213.5}
+        - {x: 74, y: -173.5}
+        - {x: 97, y: -151.5}
+        - {x: 104, y: -151.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
